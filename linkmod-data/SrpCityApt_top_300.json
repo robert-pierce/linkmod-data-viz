@@ -1,0 +1,2101 @@
+[ {
+  "url" : "/illinois/chicago-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.1992359514",
+  "MetricsAggregate" : "41673",
+  "latitude" : 41.8838,
+  "longitude" : -87.6325
+}, {
+  "url" : "/florida/orlando-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.1384453273",
+  "MetricsAggregate" : "63967",
+  "latitude" : 28.5381,
+  "longitude" : -81.3794
+}, {
+  "url" : "/minnesota/minneapolis-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.1139158145",
+  "MetricsAggregate" : "51210",
+  "latitude" : 44.98,
+  "longitude" : -93.2636
+}, {
+  "url" : "/washington/seattle-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0988897149",
+  "MetricsAggregate" : "7759",
+  "latitude" : 47.6064,
+  "longitude" : -122.3308
+}, {
+  "url" : "/florida/tampa-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0929346843",
+  "MetricsAggregate" : "38447",
+  "latitude" : 27.9377,
+  "longitude" : -82.5017
+}, {
+  "url" : "/georgia/atlanta-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0885483196",
+  "MetricsAggregate" : "32875",
+  "latitude" : 33.7489,
+  "longitude" : -84.3881
+}, {
+  "url" : "/texas/arlington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0831838968",
+  "MetricsAggregate" : "34611",
+  "latitude" : 32.7356,
+  "longitude" : -97.1078
+}, {
+  "url" : "/north-carolina/charlotte-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0826460927",
+  "MetricsAggregate" : "15713",
+  "latitude" : 35.2269,
+  "longitude" : -80.8433
+}, {
+  "url" : "/indiana/indianapolis-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0806005754",
+  "MetricsAggregate" : "29124",
+  "latitude" : 39.7683,
+  "longitude" : -86.1581
+}, {
+  "url" : "/florida/miami-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0783919265",
+  "MetricsAggregate" : "42447",
+  "latitude" : 25.7739,
+  "longitude" : -80.1939
+}, {
+  "url" : "/nevada/las-vegas-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0761507296",
+  "MetricsAggregate" : "42970",
+  "latitude" : 36.175,
+  "longitude" : -115.1364
+}, {
+  "url" : "/ohio/columbus-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0753277019",
+  "MetricsAggregate" : "22226",
+  "latitude" : 39.9611,
+  "longitude" : -82.9989
+}, {
+  "url" : "/florida/kissimmee-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0746693975",
+  "MetricsAggregate" : "38677",
+  "latitude" : 28.2917,
+  "longitude" : -81.4078
+}, {
+  "url" : "/texas/austin-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0744751348",
+  "MetricsAggregate" : "10837",
+  "latitude" : 30.2669,
+  "longitude" : -97.7428
+}, {
+  "url" : "/new-jersey/newark-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0737387821",
+  "MetricsAggregate" : "32603",
+  "latitude" : 40.7356,
+  "longitude" : -74.1728
+}, {
+  "url" : "/arizona/phoenix-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0720423015",
+  "MetricsAggregate" : "32650",
+  "latitude" : 33.4483,
+  "longitude" : -112.0733
+}, {
+  "url" : "/california/riverside-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0712435407",
+  "MetricsAggregate" : "38427",
+  "latitude" : 33.9533,
+  "longitude" : -117.3953
+}, {
+  "url" : "/florida/jacksonville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0706605359",
+  "MetricsAggregate" : "20521",
+  "latitude" : 30.3319,
+  "longitude" : -81.6558
+}, {
+  "url" : "/texas/dallas-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0664547518",
+  "MetricsAggregate" : "21442",
+  "latitude" : 32.7833,
+  "longitude" : -96.8
+}, {
+  "url" : "/north-carolina/raleigh-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0658412413",
+  "MetricsAggregate" : "21106",
+  "latitude" : 35.7719,
+  "longitude" : -78.6389
+}, {
+  "url" : "/texas/houston-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0651024435",
+  "MetricsAggregate" : "23737",
+  "latitude" : 29.7631,
+  "longitude" : -95.3631
+}, {
+  "url" : "/nevada/reno-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0644927874",
+  "MetricsAggregate" : "24506",
+  "latitude" : 39.5297,
+  "longitude" : -119.8128
+}, {
+  "url" : "/california/los-angeles-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0559428976",
+  "MetricsAggregate" : "34535",
+  "latitude" : 34.0522,
+  "longitude" : -118.2428
+}, {
+  "url" : "/california/san-diego-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0555913401",
+  "MetricsAggregate" : "25656",
+  "latitude" : 32.7153,
+  "longitude" : -117.1564
+}, {
+  "url" : "/new-jersey/east-orange-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0539940529",
+  "MetricsAggregate" : "24694",
+  "latitude" : 40.7672,
+  "longitude" : -74.2053
+}, {
+  "url" : "/michigan/detroit-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0530928249",
+  "MetricsAggregate" : "26168",
+  "latitude" : 42.3496,
+  "longitude" : -83.0869
+}, {
+  "url" : "/new-jersey/elizabeth-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0521476346",
+  "MetricsAggregate" : "22737",
+  "latitude" : 40.6639,
+  "longitude" : -74.2111
+}, {
+  "url" : "/colorado/denver-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0520722911",
+  "MetricsAggregate" : "18187",
+  "latitude" : 39.7401,
+  "longitude" : -104.9849
+}, {
+  "url" : "/new-york/buffalo-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0500467055",
+  "MetricsAggregate" : "20471",
+  "latitude" : 42.8864,
+  "longitude" : -78.8786
+}, {
+  "url" : "/california/sacramento-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0480160126",
+  "MetricsAggregate" : "22447",
+  "latitude" : 38.5817,
+  "longitude" : -121.4933
+}, {
+  "url" : "/washington/vancouver-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0473702902",
+  "MetricsAggregate" : "7559",
+  "latitude" : 45.6389,
+  "longitude" : -122.6603
+}, {
+  "url" : "/texas/irving-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0473650001",
+  "MetricsAggregate" : "15979",
+  "latitude" : 32.8139,
+  "longitude" : -96.9486
+}, {
+  "url" : "/district-of-columbia/washington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0462226464",
+  "MetricsAggregate" : "10093",
+  "latitude" : 38.8921,
+  "longitude" : -77.0362
+}, {
+  "url" : "/kentucky/louisville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0459394111",
+  "MetricsAggregate" : "11473",
+  "latitude" : 38.2542,
+  "longitude" : -85.7594
+}, {
+  "url" : "/california/fresno-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0443045579",
+  "MetricsAggregate" : "15842",
+  "latitude" : 36.7478,
+  "longitude" : -119.7714
+}, {
+  "url" : "/georgia/augusta-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0439502337",
+  "MetricsAggregate" : "15878",
+  "latitude" : 33.4667,
+  "longitude" : -82.0167
+}, {
+  "url" : "/minnesota/saint-paul-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0437805483",
+  "MetricsAggregate" : "19277",
+  "latitude" : 44.9444,
+  "longitude" : -93.0931
+}, {
+  "url" : "/arizona/tempe-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0435725123",
+  "MetricsAggregate" : "6812",
+  "latitude" : 33.4147,
+  "longitude" : -111.9086
+}, {
+  "url" : "/south-carolina/columbia-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0434177606",
+  "MetricsAggregate" : "9946",
+  "latitude" : 34.0006,
+  "longitude" : -81.035
+}, {
+  "url" : "/texas/denton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0432216436",
+  "MetricsAggregate" : "17213",
+  "latitude" : 33.2147,
+  "longitude" : -97.1328
+}, {
+  "url" : "/texas/grand-prairie-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0431551573",
+  "MetricsAggregate" : "21683",
+  "latitude" : 32.7458,
+  "longitude" : -96.9975
+}, {
+  "url" : "/arkansas/fayetteville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0429024715",
+  "MetricsAggregate" : "17184",
+  "latitude" : 36.0625,
+  "longitude" : -94.1572
+}, {
+  "url" : "/new-jersey/jersey-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0426616218",
+  "MetricsAggregate" : "22252",
+  "latitude" : 40.7281,
+  "longitude" : -74.0781
+}, {
+  "url" : "/tennessee/nashville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0422162776",
+  "MetricsAggregate" : "8094",
+  "latitude" : 36.1658,
+  "longitude" : -86.7844
+}, {
+  "url" : "/indiana/avon-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0420878996",
+  "MetricsAggregate" : "2101",
+  "latitude" : 39.7628,
+  "longitude" : -86.3997
+}, {
+  "url" : "/arizona/mesa-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0415778036",
+  "MetricsAggregate" : "15634",
+  "latitude" : 33.4222,
+  "longitude" : -111.8219
+}, {
+  "url" : "/colorado/colorado-springs-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0413960254",
+  "MetricsAggregate" : "22468",
+  "latitude" : 38.8339,
+  "longitude" : -104.8208
+}, {
+  "url" : "/alabama/birmingham-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0407539989",
+  "MetricsAggregate" : "4266",
+  "latitude" : 33.5206,
+  "longitude" : -86.8025
+}, {
+  "url" : "/texas/midland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0404372153",
+  "MetricsAggregate" : "10818",
+  "latitude" : 31.9972,
+  "longitude" : -102.0775
+}, {
+  "url" : "/texas/fort-worth-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0400693986",
+  "MetricsAggregate" : "18096",
+  "latitude" : 32.7253,
+  "longitude" : -97.3206
+}, {
+  "url" : "/tennessee/memphis-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0397918637",
+  "MetricsAggregate" : "14551",
+  "latitude" : 35.1494,
+  "longitude" : -90.0489
+}, {
+  "url" : "/wisconsin/madison-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0397246869",
+  "MetricsAggregate" : "8082",
+  "latitude" : 43.0731,
+  "longitude" : -89.4011
+}, {
+  "url" : "/new-york/new-york-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0395194368",
+  "MetricsAggregate" : "10722",
+  "latitude" : 40.7204,
+  "longitude" : -73.9946
+}, {
+  "url" : "/oregon/portland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0388815977",
+  "MetricsAggregate" : "7472",
+  "latitude" : 45.5235,
+  "longitude" : -122.676
+}, {
+  "url" : "/new-york/rochester-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0386030981",
+  "MetricsAggregate" : "10635",
+  "latitude" : 43.1547,
+  "longitude" : -77.6158
+}, {
+  "url" : "/texas/mesquite-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0383180393",
+  "MetricsAggregate" : "17722",
+  "latitude" : 32.7667,
+  "longitude" : -96.5989
+}, {
+  "url" : "/florida/west-palm-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0376157557",
+  "MetricsAggregate" : "19719",
+  "latitude" : 26.715,
+  "longitude" : -80.0536
+}, {
+  "url" : "/new-jersey/irvington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0375338437",
+  "MetricsAggregate" : "16509",
+  "latitude" : 40.7322,
+  "longitude" : -74.2353
+}, {
+  "url" : "/texas/san-antonio-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0374065734",
+  "MetricsAggregate" : "11937",
+  "latitude" : 29.4239,
+  "longitude" : -98.4933
+}, {
+  "url" : "/pennsylvania/philadelphia-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0370187278",
+  "MetricsAggregate" : "18108",
+  "latitude" : 39.962,
+  "longitude" : -75.179
+}, {
+  "url" : "/colorado/lakewood-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0370142587",
+  "MetricsAggregate" : "16705",
+  "latitude" : 39.7047,
+  "longitude" : -105.0808
+}, {
+  "url" : "/washington/tacoma-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0369979123",
+  "MetricsAggregate" : "13873",
+  "latitude" : 47.2531,
+  "longitude" : -122.4431
+}, {
+  "url" : "/california/san-bernardino-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0369928036",
+  "MetricsAggregate" : "19411",
+  "latitude" : 34.1083,
+  "longitude" : -117.2889
+}, {
+  "url" : "/florida/fort-lauderdale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0369671445",
+  "MetricsAggregate" : "19453",
+  "latitude" : 26.1219,
+  "longitude" : -80.1436
+}, {
+  "url" : "/florida/saint-petersburg-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0367466430",
+  "MetricsAggregate" : "14087",
+  "latitude" : 27.7706,
+  "longitude" : -82.6794
+}, {
+  "url" : "/washington/spokane-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0357729660",
+  "MetricsAggregate" : "14671",
+  "latitude" : 47.6589,
+  "longitude" : -117.425
+}, {
+  "url" : "/florida/hollywood-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0351425961",
+  "MetricsAggregate" : "13920",
+  "latitude" : 26.0108,
+  "longitude" : -80.1497
+}, {
+  "url" : "/michigan/warren-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0347745536",
+  "MetricsAggregate" : "15393",
+  "latitude" : 42.4775,
+  "longitude" : -83.0278
+}, {
+  "url" : "/south-carolina/greenville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0345037340",
+  "MetricsAggregate" : "9809",
+  "latitude" : 34.8525,
+  "longitude" : -82.3942
+}, {
+  "url" : "/minnesota/bloomington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0342909270",
+  "MetricsAggregate" : "14275",
+  "latitude" : 44.8408,
+  "longitude" : -93.2981
+}, {
+  "url" : "/wisconsin/milwaukee-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0342232189",
+  "MetricsAggregate" : "16450",
+  "latitude" : 43.0389,
+  "longitude" : -87.9064
+}, {
+  "url" : "/georgia/savannah-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0340574417",
+  "MetricsAggregate" : "8106",
+  "latitude" : 32.0265,
+  "longitude" : -81.10194
+}, {
+  "url" : "/georgia/decatur-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0336700935",
+  "MetricsAggregate" : "12903",
+  "latitude" : 33.7747,
+  "longitude" : -84.2964
+}, {
+  "url" : "/georgia/columbus-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0333946694",
+  "MetricsAggregate" : "11878",
+  "latitude" : 32.4608,
+  "longitude" : -84.9878
+}, {
+  "url" : "/ohio/cincinnati-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0330514982",
+  "MetricsAggregate" : "14929",
+  "latitude" : 39.105479,
+  "longitude" : -84.502052
+}, {
+  "url" : "/ohio/cleveland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0327575772",
+  "MetricsAggregate" : "14722",
+  "latitude" : 41.4994,
+  "longitude" : -81.6956
+}, {
+  "url" : "/north-carolina/wilmington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0324806694",
+  "MetricsAggregate" : "7300",
+  "latitude" : 34.2256,
+  "longitude" : -77.945
+}, {
+  "url" : "/rhode-island/providence-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0324431448",
+  "MetricsAggregate" : "14765",
+  "latitude" : 41.8239,
+  "longitude" : -71.4133
+}, {
+  "url" : "/michigan/southfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0319670608",
+  "MetricsAggregate" : "18044",
+  "latitude" : 42.4733,
+  "longitude" : -83.2219
+}, {
+  "url" : "/florida/brandon-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0318907428",
+  "MetricsAggregate" : "10473",
+  "latitude" : 27.9375,
+  "longitude" : -82.2861
+}, {
+  "url" : "/connecticut/bridgeport-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0316102399",
+  "MetricsAggregate" : "16302",
+  "latitude" : 41.1669,
+  "longitude" : -73.2053
+}, {
+  "url" : "/florida/fort-myers-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0313386533",
+  "MetricsAggregate" : "15830",
+  "latitude" : 26.6403,
+  "longitude" : -81.8725
+}, {
+  "url" : "/kentucky/lexington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0311337109",
+  "MetricsAggregate" : "3898",
+  "latitude" : 38.0492,
+  "longitude" : -84.5003
+}, {
+  "url" : "/california/bakersfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0310948080",
+  "MetricsAggregate" : "14144",
+  "latitude" : 35.3733,
+  "longitude" : -119.0178
+}, {
+  "url" : "/missouri/springfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0309372321",
+  "MetricsAggregate" : "8365",
+  "latitude" : 37.2153,
+  "longitude" : -93.2851
+}, {
+  "url" : "/florida/lakeland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0306996824",
+  "MetricsAggregate" : "12239",
+  "latitude" : 28.047,
+  "longitude" : -81.9411
+}, {
+  "url" : "/north-carolina/greensboro-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0305208723",
+  "MetricsAggregate" : "6298",
+  "latitude" : 36.0725,
+  "longitude" : -79.7922
+}, {
+  "url" : "/arizona/tucson-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0298937781",
+  "MetricsAggregate" : "11529",
+  "latitude" : 32.2217,
+  "longitude" : -110.9258
+}, {
+  "url" : "/minnesota/brooklyn-park-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0298919692",
+  "MetricsAggregate" : "12950",
+  "latitude" : 45.0942,
+  "longitude" : -93.3561
+}, {
+  "url" : "/new-jersey/clifton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0298457215",
+  "MetricsAggregate" : "15617",
+  "latitude" : 40.8583,
+  "longitude" : -74.1642
+}, {
+  "url" : "/south-carolina/charleston-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0298336936",
+  "MetricsAggregate" : "4962",
+  "latitude" : 32.7764,
+  "longitude" : -79.9311
+}, {
+  "url" : "/nevada/henderson-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0294820722",
+  "MetricsAggregate" : "10421",
+  "latitude" : 36.0397,
+  "longitude" : -114.9811
+}, {
+  "url" : "/massachusetts/boston-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0291643898",
+  "MetricsAggregate" : "12557",
+  "latitude" : 42.3583,
+  "longitude" : -71.0603
+}, {
+  "url" : "/connecticut/hartford-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0288757717",
+  "MetricsAggregate" : "14420",
+  "latitude" : 41.7636,
+  "longitude" : -72.6856
+}, {
+  "url" : "/virginia/arlington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0286452098",
+  "MetricsAggregate" : "2492",
+  "latitude" : 38.8903,
+  "longitude" : -77.0844
+}, {
+  "url" : "/new-jersey/edison-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0282613189",
+  "MetricsAggregate" : "12737",
+  "latitude" : 40.5186,
+  "longitude" : -74.4125
+}, {
+  "url" : "/colorado/aurora-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0282378819",
+  "MetricsAggregate" : "10184",
+  "latitude" : 39.7294,
+  "longitude" : -104.8314
+}, {
+  "url" : "/california/fontana-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0280681855",
+  "MetricsAggregate" : "14483",
+  "latitude" : 34.0922,
+  "longitude" : -117.4342
+}, {
+  "url" : "/new-hampshire/manchester-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0278414151",
+  "MetricsAggregate" : "11549",
+  "latitude" : 42.9956,
+  "longitude" : -71.4553
+}, {
+  "url" : "/kansas/wichita-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0275159729",
+  "MetricsAggregate" : "7745",
+  "latitude" : 37.6922,
+  "longitude" : -97.3372
+}, {
+  "url" : "/nebraska/lincoln-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0273407878",
+  "MetricsAggregate" : "4399",
+  "latitude" : 40.8,
+  "longitude" : -96.6667
+}, {
+  "url" : "/texas/odessa-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0273386496",
+  "MetricsAggregate" : "7668",
+  "latitude" : 31.8456,
+  "longitude" : -102.3672
+}, {
+  "url" : "/florida/clearwater-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0272287898",
+  "MetricsAggregate" : "10220",
+  "latitude" : 27.9656,
+  "longitude" : -82.8003
+}, {
+  "url" : "/michigan/westland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0271580327",
+  "MetricsAggregate" : "13186",
+  "latitude" : 42.3242,
+  "longitude" : -83.4003
+}, {
+  "url" : "/north-carolina/durham-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0270733232",
+  "MetricsAggregate" : "6237",
+  "latitude" : 35.9939,
+  "longitude" : -78.8989
+}, {
+  "url" : "/indiana/greenwood-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0268837871",
+  "MetricsAggregate" : "7428",
+  "latitude" : 39.6136,
+  "longitude" : -86.1067
+}, {
+  "url" : "/texas/plano-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0268429040",
+  "MetricsAggregate" : "5436",
+  "latitude" : 33.0197,
+  "longitude" : -96.6986
+}, {
+  "url" : "/florida/pensacola-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0268409520",
+  "MetricsAggregate" : "8692",
+  "latitude" : 30.4211,
+  "longitude" : -87.2169
+}, {
+  "url" : "/tennessee/knoxville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0267421408",
+  "MetricsAggregate" : "7701",
+  "latitude" : 35.9606,
+  "longitude" : -83.9208
+}, {
+  "url" : "/florida/ocala-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0265889356",
+  "MetricsAggregate" : "10075",
+  "latitude" : 29.1869,
+  "longitude" : -82.1403
+}, {
+  "url" : "/florida/gainesville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0263058568",
+  "MetricsAggregate" : "5173",
+  "latitude" : 29.6524,
+  "longitude" : -82.3391
+}, {
+  "url" : "/florida/winter-park-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0262566774",
+  "MetricsAggregate" : "11593",
+  "latitude" : 28.5997,
+  "longitude" : -81.3394
+}, {
+  "url" : "/nevada/sparks-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0259150175",
+  "MetricsAggregate" : "9831",
+  "latitude" : 39.535,
+  "longitude" : -119.7517
+}, {
+  "url" : "/georgia/athens-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0258871175",
+  "MetricsAggregate" : "6662",
+  "latitude" : 33.9608,
+  "longitude" : -83.3781
+}, {
+  "url" : "/new-jersey/bloomfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0257523053",
+  "MetricsAggregate" : "12771",
+  "latitude" : 40.8067,
+  "longitude" : -74.1858
+}, {
+  "url" : "/florida/bradenton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0256053970",
+  "MetricsAggregate" : "9895",
+  "latitude" : 27.4986,
+  "longitude" : -82.575
+}, {
+  "url" : "/florida/naples-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0255458842",
+  "MetricsAggregate" : "10547",
+  "latitude" : 26.1417,
+  "longitude" : -81.795
+}, {
+  "url" : "/california/chula-vista-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0255256028",
+  "MetricsAggregate" : "14270",
+  "latitude" : 32.64,
+  "longitude" : -117.0833
+}, {
+  "url" : "/minnesota/coon-rapids-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0254094192",
+  "MetricsAggregate" : "11678",
+  "latitude" : 45.12,
+  "longitude" : -93.2875
+}, {
+  "url" : "/florida/homestead-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0252947898",
+  "MetricsAggregate" : "10592",
+  "latitude" : 25.4683,
+  "longitude" : -80.4778
+}, {
+  "url" : "/new-jersey/orange-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0252003826",
+  "MetricsAggregate" : "11651",
+  "latitude" : 40.7706,
+  "longitude" : -74.2331
+}, {
+  "url" : "/minnesota/shakopee-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0250633831",
+  "MetricsAggregate" : "11315",
+  "latitude" : 44.7981,
+  "longitude" : -93.5267
+}, {
+  "url" : "/california/ontario-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0250386502",
+  "MetricsAggregate" : "12625",
+  "latitude" : 34.0633,
+  "longitude" : -117.65
+}, {
+  "url" : "/texas/beaumont-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0249488528",
+  "MetricsAggregate" : "7052",
+  "latitude" : 30.0858,
+  "longitude" : -94.1017
+}, {
+  "url" : "/arkansas/springdale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0249481771",
+  "MetricsAggregate" : "9851",
+  "latitude" : 36.1867,
+  "longitude" : -94.1286
+}, {
+  "url" : "/texas/pasadena-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0247503846",
+  "MetricsAggregate" : "9956",
+  "latitude" : 29.6908,
+  "longitude" : -95.2089
+}, {
+  "url" : "/north-carolina/fayetteville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0246812896",
+  "MetricsAggregate" : "6896",
+  "latitude" : 35.0525,
+  "longitude" : -78.8786
+}, {
+  "url" : "/georgia/stone-mountain-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0245824719",
+  "MetricsAggregate" : "11088",
+  "latitude" : 33.8081,
+  "longitude" : -84.1703
+}, {
+  "url" : "/pennsylvania/lancaster-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0245148445",
+  "MetricsAggregate" : "8953",
+  "latitude" : 40.0378,
+  "longitude" : -76.3058
+}, {
+  "url" : "/california/hayward-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0244873197",
+  "MetricsAggregate" : "9350",
+  "latitude" : 37.6689,
+  "longitude" : -122.0797
+}, {
+  "url" : "/missouri/saint-louis-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0244233712",
+  "MetricsAggregate" : "10454",
+  "latitude" : 38.6272,
+  "longitude" : -90.1978
+}, {
+  "url" : "/new-york/brooklyn-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0243703650",
+  "MetricsAggregate" : "4836",
+  "latitude" : 40.65948,
+  "longitude" : -73.94524
+}, {
+  "url" : "/missouri/kansas-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0242219884",
+  "MetricsAggregate" : "9990",
+  "latitude" : 39.0997,
+  "longitude" : -94.5783
+}, {
+  "url" : "/wisconsin/appleton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0241836409",
+  "MetricsAggregate" : "10441",
+  "latitude" : 44.2619,
+  "longitude" : -88.4153
+}, {
+  "url" : "/utah/salt-lake-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0237290491",
+  "MetricsAggregate" : "12602",
+  "latitude" : 40.7607,
+  "longitude" : -111.8882
+}, {
+  "url" : "/texas/lewisville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0236560109",
+  "MetricsAggregate" : "8679",
+  "latitude" : 33.0461,
+  "longitude" : -96.9939
+}, {
+  "url" : "/arizona/glendale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0235856130",
+  "MetricsAggregate" : "9446",
+  "latitude" : 33.5386,
+  "longitude" : -112.1853
+}, {
+  "url" : "/indiana/fort-wayne-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0235572419",
+  "MetricsAggregate" : "5027",
+  "latitude" : 41.1306,
+  "longitude" : -85.1289
+}, {
+  "url" : "/georgia/marietta-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0235120461",
+  "MetricsAggregate" : "8137",
+  "latitude" : 33.9525,
+  "longitude" : -84.55
+}, {
+  "url" : "/ohio/toledo-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0234611084",
+  "MetricsAggregate" : "10114",
+  "latitude" : 41.6639,
+  "longitude" : -83.5553
+}, {
+  "url" : "/michigan/grand-rapids-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0234216597",
+  "MetricsAggregate" : "7770",
+  "latitude" : 42.9633,
+  "longitude" : -85.6681
+}, {
+  "url" : "/georgia/lithonia-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0232704805",
+  "MetricsAggregate" : "9118",
+  "latitude" : 33.7122,
+  "longitude" : -84.1053
+}, {
+  "url" : "/texas/garland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0232130063",
+  "MetricsAggregate" : "8958",
+  "latitude" : 32.9125,
+  "longitude" : -96.6386
+}, {
+  "url" : "/virginia/alexandria-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0230132210",
+  "MetricsAggregate" : "2524",
+  "latitude" : 38.8047,
+  "longitude" : -77.0472
+}, {
+  "url" : "/california/anaheim-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0230091169",
+  "MetricsAggregate" : "11424",
+  "latitude" : 33.8353,
+  "longitude" : -117.9136
+}, {
+  "url" : "/florida/port-saint-lucie-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0229850273",
+  "MetricsAggregate" : "8710",
+  "latitude" : 27.2936,
+  "longitude" : -80.3506
+}, {
+  "url" : "/california/corona-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0228127329",
+  "MetricsAggregate" : "10891",
+  "latitude" : 33.8753,
+  "longitude" : -117.5656
+}, {
+  "url" : "/alabama/mobile-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0226603607",
+  "MetricsAggregate" : "6455",
+  "latitude" : 30.6942,
+  "longitude" : -88.0431
+}, {
+  "url" : "/north-dakota/fargo-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0225685792",
+  "MetricsAggregate" : "8146",
+  "latitude" : 46.8772,
+  "longitude" : -96.7894
+}, {
+  "url" : "/connecticut/waterbury-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0225520354",
+  "MetricsAggregate" : "10548",
+  "latitude" : 41.5581,
+  "longitude" : -73.0519
+}, {
+  "url" : "/alabama/huntsville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0225368070",
+  "MetricsAggregate" : "4390",
+  "latitude" : 34.7303,
+  "longitude" : -86.5861
+}, {
+  "url" : "/virginia/norfolk-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0224783073",
+  "MetricsAggregate" : "6116",
+  "latitude" : 36.8518,
+  "longitude" : -76.2844
+}, {
+  "url" : "/georgia/macon-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0222011869",
+  "MetricsAggregate" : "7596",
+  "latitude" : 32.8406,
+  "longitude" : -83.6325
+}, {
+  "url" : "/tennessee/murfreesboro-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0221844379",
+  "MetricsAggregate" : "5419",
+  "latitude" : 35.8456,
+  "longitude" : -86.3903
+}, {
+  "url" : "/massachusetts/worcester-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0221738688",
+  "MetricsAggregate" : "8318",
+  "latitude" : 42.2625,
+  "longitude" : -71.8028
+}, {
+  "url" : "/california/rialto-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0221406632",
+  "MetricsAggregate" : "11143",
+  "latitude" : 34.1064,
+  "longitude" : -117.3694
+}, {
+  "url" : "/texas/katy-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0219110637",
+  "MetricsAggregate" : "8034",
+  "latitude" : 29.7856,
+  "longitude" : -95.8242
+}, {
+  "url" : "/massachusetts/lowell-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0218610054",
+  "MetricsAggregate" : "9769",
+  "latitude" : 42.6333,
+  "longitude" : -71.3167
+}, {
+  "url" : "/new-jersey/new-brunswick-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0217163627",
+  "MetricsAggregate" : "8812",
+  "latitude" : 40.4861,
+  "longitude" : -74.4522
+}, {
+  "url" : "/georgia/warner-robins-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0217162993",
+  "MetricsAggregate" : "9901",
+  "latitude" : 32.6208,
+  "longitude" : -83.6
+}, {
+  "url" : "/nebraska/omaha-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0216062412",
+  "MetricsAggregate" : "4259",
+  "latitude" : 41.2586,
+  "longitude" : -95.9375
+}, {
+  "url" : "/indiana/bloomington-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0213128378",
+  "MetricsAggregate" : "4372",
+  "latitude" : 39.1653,
+  "longitude" : -86.5264
+}, {
+  "url" : "/georgia/lawrenceville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0212164779",
+  "MetricsAggregate" : "8250",
+  "latitude" : 33.9561,
+  "longitude" : -83.9881
+}, {
+  "url" : "/new-york/middletown-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0211358948",
+  "MetricsAggregate" : "8451",
+  "latitude" : 41.4458,
+  "longitude" : -74.4233
+}, {
+  "url" : "/florida/daytona-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0208959547",
+  "MetricsAggregate" : "9696",
+  "latitude" : 29.2106,
+  "longitude" : -81.0231
+}, {
+  "url" : "/florida/sarasota-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0208763702",
+  "MetricsAggregate" : "8448",
+  "latitude" : 27.3361,
+  "longitude" : -82.5308
+}, {
+  "url" : "/massachusetts/springfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0208192260",
+  "MetricsAggregate" : "8442",
+  "latitude" : 42.1014,
+  "longitude" : -72.5903
+}, {
+  "url" : "/california/long-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0205639543",
+  "MetricsAggregate" : "7307",
+  "latitude" : 33.7669,
+  "longitude" : -118.1883
+}, {
+  "url" : "/pennsylvania/allentown-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0205472801",
+  "MetricsAggregate" : "8827",
+  "latitude" : 40.6083,
+  "longitude" : -75.4906
+}, {
+  "url" : "/new-jersey/hackensack-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0205378490",
+  "MetricsAggregate" : "9528",
+  "latitude" : 40.8858,
+  "longitude" : -74.0439
+}, {
+  "url" : "/georgia/college-park-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0205263992",
+  "MetricsAggregate" : "7837",
+  "latitude" : 33.6533,
+  "longitude" : -84.4494
+}, {
+  "url" : "/alabama/montgomery-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0199970607",
+  "MetricsAggregate" : "3809",
+  "latitude" : 32.3667,
+  "longitude" : -86.3
+}, {
+  "url" : "/georgia/conyers-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0199370723",
+  "MetricsAggregate" : "7828",
+  "latitude" : 33.6675,
+  "longitude" : -84.0178
+}, {
+  "url" : "/florida/winter-haven-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0199061847",
+  "MetricsAggregate" : "7052",
+  "latitude" : 28.0219,
+  "longitude" : -81.7331
+}, {
+  "url" : "/pennsylvania/pittsburgh-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0198998079",
+  "MetricsAggregate" : "8354",
+  "latitude" : 40.4406,
+  "longitude" : -79.9961
+}, {
+  "url" : "/california/garden-grove-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0198071275",
+  "MetricsAggregate" : "10623",
+  "latitude" : 33.7813,
+  "longitude" : -117.9586
+}, {
+  "url" : "/california/clovis-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0197361842",
+  "MetricsAggregate" : "7767",
+  "latitude" : 36.8253,
+  "longitude" : -119.7019
+}, {
+  "url" : "/oklahoma/tulsa-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0196622411",
+  "MetricsAggregate" : "5918",
+  "latitude" : 36.1539,
+  "longitude" : -95.9925
+}, {
+  "url" : "/texas/tyler-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0195697474",
+  "MetricsAggregate" : "2828",
+  "latitude" : 32.3511,
+  "longitude" : -95.3008
+}, {
+  "url" : "/california/san-francisco-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0195501003",
+  "MetricsAggregate" : "12747",
+  "latitude" : 37.775,
+  "longitude" : -122.4183
+}, {
+  "url" : "/california/san-jose-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0192735636",
+  "MetricsAggregate" : "10249",
+  "latitude" : 37.3394,
+  "longitude" : -121.8939
+}, {
+  "url" : "/florida/riverview-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0190663380",
+  "MetricsAggregate" : "7415",
+  "latitude" : 27.8658,
+  "longitude" : -82.3267
+}, {
+  "url" : "/north-carolina/high-point-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0189002951",
+  "MetricsAggregate" : "2635",
+  "latitude" : 35.9556,
+  "longitude" : -80.0056
+}, {
+  "url" : "/new-york/bronx-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0188878135",
+  "MetricsAggregate" : "6875",
+  "latitude" : 40.85,
+  "longitude" : -73.8667
+}, {
+  "url" : "/michigan/royal-oak-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0187770096",
+  "MetricsAggregate" : "9646",
+  "latitude" : 42.4894,
+  "longitude" : -83.1447
+}, {
+  "url" : "/new-jersey/perth-amboy-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0187277904",
+  "MetricsAggregate" : "9015",
+  "latitude" : 40.5067,
+  "longitude" : -74.2658
+}, {
+  "url" : "/connecticut/new-haven-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0187272970",
+  "MetricsAggregate" : "8601",
+  "latitude" : 41.3081,
+  "longitude" : -72.9286
+}, {
+  "url" : "/new-york/albany-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0186947616",
+  "MetricsAggregate" : "5473",
+  "latitude" : 42.6596,
+  "longitude" : -73.7594
+}, {
+  "url" : "/california/pasadena-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0186740858",
+  "MetricsAggregate" : "8268",
+  "latitude" : 34.1478,
+  "longitude" : -118.1436
+}, {
+  "url" : "/minnesota/roseville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0186597291",
+  "MetricsAggregate" : "8708",
+  "latitude" : 45.0061,
+  "longitude" : -93.1564
+}, {
+  "url" : "/arkansas/rogers-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0186418807",
+  "MetricsAggregate" : "6367",
+  "latitude" : 36.3319,
+  "longitude" : -94.1183
+}, {
+  "url" : "/north-carolina/winston-salem-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0185622764",
+  "MetricsAggregate" : "6891",
+  "latitude" : 36.0997,
+  "longitude" : -80.2444
+}, {
+  "url" : "/michigan/taylor-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0185285008",
+  "MetricsAggregate" : "6924",
+  "latitude" : 42.2408,
+  "longitude" : -83.2697
+}, {
+  "url" : "/maryland/baltimore-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0185266964",
+  "MetricsAggregate" : "8385",
+  "latitude" : 39.2903,
+  "longitude" : -76.6125
+}, {
+  "url" : "/louisiana/lafayette-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0183499806",
+  "MetricsAggregate" : "5024",
+  "latitude" : 30.2239,
+  "longitude" : -92.0197
+}, {
+  "url" : "/idaho/boise-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0183416075",
+  "MetricsAggregate" : "5778",
+  "latitude" : 43.6136,
+  "longitude" : -116.2025
+}, {
+  "url" : "/florida/melbourne-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0182654304",
+  "MetricsAggregate" : "6155",
+  "latitude" : 28.0833,
+  "longitude" : -80.6083
+}, {
+  "url" : "/tennessee/chattanooga-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0182401550",
+  "MetricsAggregate" : "6737",
+  "latitude" : 35.0456,
+  "longitude" : -85.3097
+}, {
+  "url" : "/minnesota/eagan-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0182072759",
+  "MetricsAggregate" : "9090",
+  "latitude" : 44.8042,
+  "longitude" : -93.1667
+}, {
+  "url" : "/washington/lakewood-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0181385059",
+  "MetricsAggregate" : "6699",
+  "latitude" : 47.1719,
+  "longitude" : -122.5172
+}, {
+  "url" : "/california/moreno-valley-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0180907959",
+  "MetricsAggregate" : "10124",
+  "latitude" : 33.9375,
+  "longitude" : -117.2297
+}, {
+  "url" : "/arizona/chandler-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0180164174",
+  "MetricsAggregate" : "5778",
+  "latitude" : 33.3061,
+  "longitude" : -111.8406
+}, {
+  "url" : "/nevada/carson-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0180004263",
+  "MetricsAggregate" : "8193",
+  "latitude" : 39.1639,
+  "longitude" : -119.7664
+}, {
+  "url" : "/ohio/lakewood-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0179897386",
+  "MetricsAggregate" : "7395",
+  "latitude" : 41.4819,
+  "longitude" : -81.7983
+}, {
+  "url" : "/louisiana/baton-rouge-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0178964117",
+  "MetricsAggregate" : "8216",
+  "latitude" : 30.4506,
+  "longitude" : -91.1544
+}, {
+  "url" : "/tennessee/clarksville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0178879654",
+  "MetricsAggregate" : "5005",
+  "latitude" : 36.5297,
+  "longitude" : -87.3594
+}, {
+  "url" : "/ohio/dayton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0178462677",
+  "MetricsAggregate" : "7032",
+  "latitude" : 39.7589,
+  "longitude" : -84.1917
+}, {
+  "url" : "/new-jersey/passaic-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0177834127",
+  "MetricsAggregate" : "10142",
+  "latitude" : 40.8567,
+  "longitude" : -74.1289
+}, {
+  "url" : "/pennsylvania/harrisburg-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0177246755",
+  "MetricsAggregate" : "7703",
+  "latitude" : 40.2736,
+  "longitude" : -76.8847
+}, {
+  "url" : "/minnesota/burnsville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0176520259",
+  "MetricsAggregate" : "8400",
+  "latitude" : 44.7678,
+  "longitude" : -93.2775
+}, {
+  "url" : "/north-carolina/greenville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0176430575",
+  "MetricsAggregate" : "2365",
+  "latitude" : 35.6125,
+  "longitude" : -77.3667
+}, {
+  "url" : "/texas/mckinney-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0176246089",
+  "MetricsAggregate" : "4873",
+  "latitude" : 33.1975,
+  "longitude" : -96.615
+}, {
+  "url" : "/new-jersey/montclair-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0175536329",
+  "MetricsAggregate" : "7466",
+  "latitude" : 40.8258,
+  "longitude" : -74.2094
+}, {
+  "url" : "/california/van-nuys-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0175477640",
+  "MetricsAggregate" : "9826",
+  "latitude" : 34.1867,
+  "longitude" : -118.4481
+}, {
+  "url" : "/california/orange-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0175286491",
+  "MetricsAggregate" : "8515",
+  "latitude" : 33.7878,
+  "longitude" : -117.8522
+}, {
+  "url" : "/california/victorville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0175241041",
+  "MetricsAggregate" : "6958",
+  "latitude" : 34.5361,
+  "longitude" : -117.2903
+}, {
+  "url" : "/california/stockton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174803535",
+  "MetricsAggregate" : "4378",
+  "latitude" : 37.9578,
+  "longitude" : -121.2897
+}, {
+  "url" : "/california/woodland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174513860",
+  "MetricsAggregate" : "7188",
+  "latitude" : 38.6786,
+  "longitude" : -121.7722
+}, {
+  "url" : "/illinois/oak-park-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174443080",
+  "MetricsAggregate" : "8202",
+  "latitude" : 41.885,
+  "longitude" : -87.7844
+}, {
+  "url" : "/north-carolina/asheville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174390655",
+  "MetricsAggregate" : "4202",
+  "latitude" : 35.6008,
+  "longitude" : -82.5542
+}, {
+  "url" : "/florida/vero-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174257740",
+  "MetricsAggregate" : "7729",
+  "latitude" : 27.6383,
+  "longitude" : -80.3975
+}, {
+  "url" : "/arkansas/little-rock-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0174154980",
+  "MetricsAggregate" : "5504",
+  "latitude" : 34.7464,
+  "longitude" : -92.2894
+}, {
+  "url" : "/california/santa-ana-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0172292070",
+  "MetricsAggregate" : "10061",
+  "latitude" : 33.7456,
+  "longitude" : -117.8669
+}, {
+  "url" : "/indiana/plainfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0171536146",
+  "MetricsAggregate" : "5637",
+  "latitude" : 39.7042,
+  "longitude" : -86.3994
+}, {
+  "url" : "/michigan/lansing-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0171534165",
+  "MetricsAggregate" : "5819",
+  "latitude" : 42.7325,
+  "longitude" : -84.5556
+}, {
+  "url" : "/florida/altamonte-springs-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0171407497",
+  "MetricsAggregate" : "8905",
+  "latitude" : 28.6608,
+  "longitude" : -81.3658
+}, {
+  "url" : "/texas/euless-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0170912012",
+  "MetricsAggregate" : "6483",
+  "latitude" : 32.8369,
+  "longitude" : -97.0817
+}, {
+  "url" : "/new-jersey/union-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0170217410",
+  "MetricsAggregate" : "8893",
+  "latitude" : 40.6975,
+  "longitude" : -74.2636
+}, {
+  "url" : "/new-jersey/belleville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0169767233",
+  "MetricsAggregate" : "8938",
+  "latitude" : 40.7936,
+  "longitude" : -74.1506
+}, {
+  "url" : "/massachusetts/fall-river-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0169386616",
+  "MetricsAggregate" : "8311",
+  "latitude" : 41.7014,
+  "longitude" : -71.1556
+}, {
+  "url" : "/california/whittier-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0168490546",
+  "MetricsAggregate" : "8233",
+  "latitude" : 33.9792,
+  "longitude" : -118.0319
+}, {
+  "url" : "/south-carolina/rock-hill-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0168112470",
+  "MetricsAggregate" : "5099",
+  "latitude" : 34.9247,
+  "longitude" : -81.0253
+}, {
+  "url" : "/virginia/chesapeake-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0167464468",
+  "MetricsAggregate" : "6295",
+  "latitude" : 36.7663,
+  "longitude" : -76.2855
+}, {
+  "url" : "/pennsylvania/upper-darby-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0166986367",
+  "MetricsAggregate" : "7907",
+  "latitude" : 39.9283,
+  "longitude" : -75.2742
+}, {
+  "url" : "/florida/hialeah-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0166931953",
+  "MetricsAggregate" : "8945",
+  "latitude" : 25.8572,
+  "longitude" : -80.2783
+}, {
+  "url" : "/florida/davenport-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0164990775",
+  "MetricsAggregate" : "8589",
+  "latitude" : 28.1611,
+  "longitude" : -81.6019
+}, {
+  "url" : "/colorado/boulder-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0164896472",
+  "MetricsAggregate" : "2495",
+  "latitude" : 40.015,
+  "longitude" : -105.27
+}, {
+  "url" : "/florida/tallahassee-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0164777554",
+  "MetricsAggregate" : "5922",
+  "latitude" : 30.4381,
+  "longitude" : -84.2808
+}, {
+  "url" : "/michigan/clinton-township-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0164724505",
+  "MetricsAggregate" : "8580",
+  "latitude" : 42.5565,
+  "longitude" : -82.9078
+}, {
+  "url" : "/alabama/madison-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0163248059",
+  "MetricsAggregate" : "5430",
+  "latitude" : 34.6992,
+  "longitude" : -86.7483
+}, {
+  "url" : "/new-jersey/kearny-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0163075761",
+  "MetricsAggregate" : "7896",
+  "latitude" : 40.7683,
+  "longitude" : -74.1458
+}, {
+  "url" : "/tennessee/lebanon-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0161960276",
+  "MetricsAggregate" : "5917",
+  "latitude" : 36.2081,
+  "longitude" : -86.2911
+}, {
+  "url" : "/california/elk-grove-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0161120543",
+  "MetricsAggregate" : "8721",
+  "latitude" : 38.4089,
+  "longitude" : -121.3706
+}, {
+  "url" : "/pennsylvania/bethlehem-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0161085870",
+  "MetricsAggregate" : "6566",
+  "latitude" : 40.6258,
+  "longitude" : -75.3708
+}, {
+  "url" : "/minnesota/anoka-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0160714247",
+  "MetricsAggregate" : "7366",
+  "latitude" : 45.1978,
+  "longitude" : -93.3869
+}, {
+  "url" : "/georgia/jonesboro-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0160585065",
+  "MetricsAggregate" : "6371",
+  "latitude" : 33.5214,
+  "longitude" : -84.3539
+}, {
+  "url" : "/california/roseville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0160480904",
+  "MetricsAggregate" : "5921",
+  "latitude" : 38.7522,
+  "longitude" : -121.2869
+}, {
+  "url" : "/new-jersey/plainfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0159971167",
+  "MetricsAggregate" : "6881",
+  "latitude" : 40.6336,
+  "longitude" : -74.4078
+}, {
+  "url" : "/tennessee/antioch-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0159750425",
+  "MetricsAggregate" : "5885",
+  "latitude" : 36.05987,
+  "longitude" : -86.6717
+}, {
+  "url" : "/tennessee/johnson-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0158901623",
+  "MetricsAggregate" : "6792",
+  "latitude" : 36.3133,
+  "longitude" : -82.3536
+}, {
+  "url" : "/colorado/westminster-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0158563203",
+  "MetricsAggregate" : "6036",
+  "latitude" : 39.8367,
+  "longitude" : -105.0367
+}, {
+  "url" : "/indiana/hammond-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0158522289",
+  "MetricsAggregate" : "8148",
+  "latitude" : 41.5833,
+  "longitude" : -87.5
+}, {
+  "url" : "/florida/fort-pierce-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0158385770",
+  "MetricsAggregate" : "7175",
+  "latitude" : 27.4464,
+  "longitude" : -80.3258
+}, {
+  "url" : "/mississippi/southaven-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0157447493",
+  "MetricsAggregate" : "6201",
+  "latitude" : 34.9889,
+  "longitude" : -90.0125
+}, {
+  "url" : "/connecticut/stamford-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0157276750",
+  "MetricsAggregate" : "3494",
+  "latitude" : 41.0533,
+  "longitude" : -73.5392
+}, {
+  "url" : "/new-york/syracuse-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0157144051",
+  "MetricsAggregate" : "4473",
+  "latitude" : 43.0481,
+  "longitude" : -76.1478
+}, {
+  "url" : "/texas/el-paso-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0157060038",
+  "MetricsAggregate" : "4400",
+  "latitude" : 31.7586,
+  "longitude" : -106.4864
+}, {
+  "url" : "/new-hampshire/nashua-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0156669780",
+  "MetricsAggregate" : "6255",
+  "latitude" : 42.7653,
+  "longitude" : -71.4681
+}, {
+  "url" : "/georgia/riverdale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0156477598",
+  "MetricsAggregate" : "6082",
+  "latitude" : 33.5725,
+  "longitude" : -84.4133
+}, {
+  "url" : "/california/vacaville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0156202737",
+  "MetricsAggregate" : "6598",
+  "latitude" : 38.3567,
+  "longitude" : -121.9867
+}, {
+  "url" : "/california/redlands-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0153973775",
+  "MetricsAggregate" : "8160",
+  "latitude" : 34.0556,
+  "longitude" : -117.1817
+}, {
+  "url" : "/texas/richardson-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0153011332",
+  "MetricsAggregate" : "2999",
+  "latitude" : 32.9481,
+  "longitude" : -96.7294
+}, {
+  "url" : "/florida/miami-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0152381991",
+  "MetricsAggregate" : "10534",
+  "latitude" : 25.7903,
+  "longitude" : -80.1303
+}, {
+  "url" : "/alabama/auburn-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0151794969",
+  "MetricsAggregate" : "3647",
+  "latitude" : 32.6097,
+  "longitude" : -85.4808
+}, {
+  "url" : "/michigan/ypsilanti-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0151761107",
+  "MetricsAggregate" : "6851",
+  "latitude" : 42.2411,
+  "longitude" : -83.6131
+}, {
+  "url" : "/massachusetts/quincy-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0151443774",
+  "MetricsAggregate" : "5659",
+  "latitude" : 42.2528,
+  "longitude" : -71.0028
+}, {
+  "url" : "/north-carolina/gastonia-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0151366147",
+  "MetricsAggregate" : "6648",
+  "latitude" : 35.2619,
+  "longitude" : -81.1875
+}, {
+  "url" : "/south-carolina/summerville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0150718772",
+  "MetricsAggregate" : "4378",
+  "latitude" : 33.0183,
+  "longitude" : -80.1758
+}, {
+  "url" : "/new-york/queens-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0150325778",
+  "MetricsAggregate" : "3104",
+  "latitude" : 40.7306,
+  "longitude" : -73.847
+}, {
+  "url" : "/california/glendale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0150283882",
+  "MetricsAggregate" : "4866",
+  "latitude" : 34.1425,
+  "longitude" : -118.2542
+}, {
+  "url" : "/ohio/westerville-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0149759922",
+  "MetricsAggregate" : "5994",
+  "latitude" : 40.1261,
+  "longitude" : -82.9292
+}, {
+  "url" : "/iowa/iowa-city-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0149410797",
+  "MetricsAggregate" : "918",
+  "latitude" : 41.6611,
+  "longitude" : -91.53
+}, {
+  "url" : "/massachusetts/west-springfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0149409600",
+  "MetricsAggregate" : "7575",
+  "latitude" : 42.1069,
+  "longitude" : -72.6208
+}, {
+  "url" : "/california/oakland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0149305356",
+  "MetricsAggregate" : "5153",
+  "latitude" : 37.8044,
+  "longitude" : -122.2697
+}, {
+  "url" : "/texas/killeen-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0149293261",
+  "MetricsAggregate" : "3924",
+  "latitude" : 31.1169,
+  "longitude" : -97.7275
+}, {
+  "url" : "/north-carolina/cary-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0148776679",
+  "MetricsAggregate" : "2801",
+  "latitude" : 35.7914,
+  "longitude" : -78.7814
+}, {
+  "url" : "/michigan/canton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0148466567",
+  "MetricsAggregate" : "6479",
+  "latitude" : 42.3085,
+  "longitude" : -83.4822
+}, {
+  "url" : "/georgia/mcdonough-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0148144153",
+  "MetricsAggregate" : "5138",
+  "latitude" : 33.4472,
+  "longitude" : -84.1469
+}, {
+  "url" : "/michigan/waterford-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0147327511",
+  "MetricsAggregate" : "6821",
+  "latitude" : 42.7022,
+  "longitude" : -83.4028
+}, {
+  "url" : "/washington/lacey-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0146834343",
+  "MetricsAggregate" : "5866",
+  "latitude" : 47.0344,
+  "longitude" : -122.8219
+}, {
+  "url" : "/arizona/scottsdale-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0146722027",
+  "MetricsAggregate" : "3503",
+  "latitude" : 33.5092,
+  "longitude" : -111.8983
+}, {
+  "url" : "/tennessee/smyrna-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0146267461",
+  "MetricsAggregate" : "3112",
+  "latitude" : 35.9828,
+  "longitude" : -86.5186
+}, {
+  "url" : "/massachusetts/chicopee-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145930689",
+  "MetricsAggregate" : "6888",
+  "latitude" : 42.1486,
+  "longitude" : -72.6083
+}, {
+  "url" : "/wisconsin/kenosha-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145638035",
+  "MetricsAggregate" : "7022",
+  "latitude" : 42.5847,
+  "longitude" : -87.8211
+}, {
+  "url" : "/washington/puyallup-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145523537",
+  "MetricsAggregate" : "6751",
+  "latitude" : 47.1911,
+  "longitude" : -122.2894
+}, {
+  "url" : "/massachusetts/attleboro-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145307853",
+  "MetricsAggregate" : "7711",
+  "latitude" : 41.9444,
+  "longitude" : -71.2861
+}, {
+  "url" : "/georgia/norcross-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145078815",
+  "MetricsAggregate" : "5535",
+  "latitude" : 33.9411,
+  "longitude" : -84.2136
+}, {
+  "url" : "/oklahoma/norman-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0145059483",
+  "MetricsAggregate" : "5078",
+  "latitude" : 35.2225,
+  "longitude" : -97.4392
+}, {
+  "url" : "/new-hampshire/concord-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0144967283",
+  "MetricsAggregate" : "6841",
+  "latitude" : 43.2081,
+  "longitude" : -71.5381
+}, {
+  "url" : "/california/fairfield-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0144506842",
+  "MetricsAggregate" : "5159",
+  "latitude" : 38.2494,
+  "longitude" : -122.0389
+}, {
+  "url" : "/pennsylvania/york-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0144248813",
+  "MetricsAggregate" : "4877",
+  "latitude" : 39.9625,
+  "longitude" : -76.7281
+}, {
+  "url" : "/new-jersey/rahway-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0143904696",
+  "MetricsAggregate" : "5483",
+  "latitude" : 40.6081,
+  "longitude" : -74.2781
+}, {
+  "url" : "/texas/carrollton-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0143897163",
+  "MetricsAggregate" : "3081",
+  "latitude" : 32.9536,
+  "longitude" : -96.89
+}, {
+  "url" : "/texas/pearland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0143876644",
+  "MetricsAggregate" : "6922",
+  "latitude" : 29.5633,
+  "longitude" : -95.2858
+}, {
+  "url" : "/new-york/yonkers-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0143728264",
+  "MetricsAggregate" : "6681",
+  "latitude" : 40.9311,
+  "longitude" : -73.8992
+}, {
+  "url" : "/florida/sanford-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0143434958",
+  "MetricsAggregate" : "5071",
+  "latitude" : 28.8003,
+  "longitude" : -81.2733
+}, {
+  "url" : "/maine/portland-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0142892197",
+  "MetricsAggregate" : "851",
+  "latitude" : 43.6614,
+  "longitude" : -70.2558
+}, {
+  "url" : "/arizona/gilbert-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0142519177",
+  "MetricsAggregate" : "4432",
+  "latitude" : 33.3528,
+  "longitude" : -111.7883
+}, {
+  "url" : "/virginia/virginia-beach-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0142077312",
+  "MetricsAggregate" : "7967",
+  "latitude" : 36.8528,
+  "longitude" : -75.9808
+}, {
+  "url" : "/california/irvine-apartments",
+  "page_type" : "SrpCityApt",
+  "seo_priority_score" : "0.0141957523",
+  "MetricsAggregate" : "3299",
+  "latitude" : 33.6694,
+  "longitude" : -117.8222
+} ]

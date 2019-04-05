@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "width": 900,
+  "height": 560,
+  "projection": {
+    "type": "albersUsa"
+  },
+  "layer": [
+    {
+      "data": {
+        "name": "states",
+        "url": "https://vega.github.io/vega-tutorials/airports/data/us-10m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "white"
+      }
+    }
+  ]
+}
