@@ -1,0 +1,24 @@
+(ns linkmod-data-viz.Srp-Apt-Top-300)
+
+(def Srp-Apt-Top-300-Viz-Vega-Lite
+  {:$schema "https://vega.github.io/schema/vega-lite/v3.json"
+   :width 800
+   :height 500
+   :projection {:type "albersUsa"}
+   :layer [{:data {:name "states"
+                   :url "https://vega.github.io/vega-tutorials/airports/data/us-10m.json"
+                   :format {:type "topojson" :feature "states"}}
+            :mark {:type "geoshape"
+                   :fill "lightgray"
+                   :stroke "white"}}
+           {:data {:name "linkmod-data"
+                   :url "https://gist.githubusercontent.com/robert-pierce/cc4ba2da18aaaf81cccbb9323e34ccaa/raw/7ecee46180b2bb039a3b663bd9b2ee2cb328a75a/SrpCityApt_top_300.json"}
+            :encoding {:longitude {:field "longitude"
+                                   :type "quantitative"}
+                       :latitude {:field "latitude"
+                                  :type "quantitative"}
+                       :size {:field "seo_priority_score"
+                              :type "quantitative"
+                              :scale {:type "linear" :domain [0.0 0.25] :range [10 1000]}}}
+            :mark {:type "circle"
+                   :color "blue"}}]})
